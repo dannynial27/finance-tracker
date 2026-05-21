@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "Secure, hardware-encrypted finance tracker with custom visual charts, interactive dark mode, and biometric lock protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
